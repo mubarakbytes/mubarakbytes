@@ -39,7 +39,7 @@ I love building things with code. I create websites, desktop programs, and scrip
 
 ---
 
-🧠 **Learning now**: React ⚛️, FastAPI ⚡, Machine Learning 🤖
+🧠 **Learning now**: Machine Learning 🤖
 
 ---
 
