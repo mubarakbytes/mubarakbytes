@@ -1,34 +1,34 @@
 # 👋 Hello! I'm Mubaarak
 
-🎓 I'm a 3rd year Computer Science student.  
-💻 I build websites, desktop apps, and Python automation tools.
+🎓 I'm in last year Computer Science student.  
+💻 I build websites, desktop apps, and automation tools.
 
 ---
 
 ### 🔧 About Me
 
-I love building things with code. I create websites, desktop programs, and scripts to make tasks easier. I enjoy learning new things like AI, machine learning, and ethical hacking.
+I love building things with code. I create websites, desktop programs, and scripts to make tasks easier. I enjoy learning new things
 
 ---
 
 ### 💼 What I Can Do
 
-- 🌐 **Websites** using: React.js, Flask, FastAPI, PHP, HTML, Tailwind CSS  
+- 🌐 **Websites** using: React.js, Flask, FastAPI, HTML, Tailwind CSS  
 - 🖥️ **Desktop apps** using: Python (Tkinter), C# (.NET)  
 - 🔄 **Automation & Scripts**: Web scraping, API tasks, auto tools  
 - 🔗 **APIs**: I build REST APIs using Flask and FastAPI  
-- 🎨 **Nice UI design**: I create clean, responsive (mobile-friendly) layouts
+
 
 ---
 
-### 💻 Tools I Use
+### 💻 Tools And Langauges I Use Most
 
 - Python 🐍  
 - JavaScript  
 - React  
 - Flask & FastAPI  
 - Tailwind CSS  
-- Git & GitHub
+
 
 ---
 
