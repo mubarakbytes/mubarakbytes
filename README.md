@@ -1,6 +1,6 @@
-### 👋 Hi there! I'm Mubaarak  
+### 👋 Hi there! I'm Mubaarak and I specialize in
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=0A66C2&width=600&lines=Full+Stack+Developer;Modern+Web+Applications;Mobile+Applications;Automation+and+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=0A236C2&width=600&lines=Full+Stack+Developer;Modern+Web+Applications;Mobile+Applications;Automation+and+APIs)](https://git.io/typing-svg)
 
 ---
 
