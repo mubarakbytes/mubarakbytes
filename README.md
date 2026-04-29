@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there! I'm Mubaarak and I specialize in
 
-<!--
-**mubarakbytes/mubarakbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=0A236C2&width=600&lines=Full+Stack+Developer;Modern+Web+Applications;Mobile+Applications;Automation+and+APIs)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Build  
+
+-  **Full Stack Apps**  
+-  **Modern Web Apps**  
+-  **Mobile Applications**  
+-  **Automation Scripts**  
+
+---
+
+### 🛠️ Tech I Use  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,dart,go,python,js" />
+</p>
+
+
+
+---
+
+### 📫 Let's Friend
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://web.whatsapp.com/send/?phone=252613781536&text=Hello%2C+waxaan+rabaa+macluumaad+dheeraad+ah+oo+kugu+saabsan) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mubaarak.sboy/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mubaarak-abdikadir/)  
