@@ -23,7 +23,7 @@
 
 ---
 
-### 📫 Let's Friend
+### 📫 Let's be Friends
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://web.whatsapp.com/send/?phone=252613781536&text=Hello%2C+waxaan+rabaa+macluumaad+dheeraad+ah+oo+kugu+saabsan) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mubaarak.sboy/) 
